@@ -1,2 +1,2 @@
-# serviceteach
-Service Teach
+# Service Teach
+This is just a service teach.
